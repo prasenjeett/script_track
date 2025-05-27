@@ -1,4 +1,3 @@
-
 // --- Ads Section with Game Button ---
 
 // Create the ads section
@@ -14,7 +13,7 @@ adsSection.style.boxShadow = '0 4px 16px rgba(0,0,0,0.2)';
 adsSection.style.zIndex = 99999;
 adsSection.style.borderRadius = '8px';
 
-// Add some ad-like content and the button
+// Add ad-like content and the button
 adsSection.innerHTML = `
   <div style="margin-bottom:10px;font-size:1.15em;">
     <b>Sponsored:</b> Click below for a surprise game!
